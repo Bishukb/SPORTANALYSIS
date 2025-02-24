@@ -1,0 +1,587 @@
+team,name,position,matches,goals,assists,status
+Bournemouth,Alex Scott,M,0,0,0,Injured
+Bournemouth,M. Tavernier,M,0,0,0,Injured
+Bournemouth,Julian Araujo,D,0,0,0,Injured
+Bournemouth,marco Senesi,D,0,0,0,Injured
+Bournemouth,Luis Sinisterra,F,0,0,0,Doubtful
+Bournemouth,A. Smith,D,0,0,0,Injured
+Arsenal,Ben White ,D,0,0,0,Injured
+Arsenal,Takehiro Tomiyasu,D,0,0,0,Injured
+Arsenal,Riccardo Calafiori,D,0,0,0,Injured
+Arsenal,B. Saka,F,0,0,0,Injured
+Arsenal,E. Nwaneri,M,0,0,0,Injured
+Arsenal,R. Sterling,F,0,0,0,Injured
+Aston Villa,J. Philogene ,F,0,0,0,Injured
+Aston Villa,D. Carlos ,D,0,0,0,Injured
+Aston Villa,P. Torres ,D,0,0,0,Injured
+Aston Villa,J. McGinn ,M,0,0,0,Injured
+Aston Villa,J. Duran,F,0,0,0,Suspended
+Brentford,B. Mee,D,0,0,0,Injured
+Brentford,Aaron Hickey,M,0,0,0,Injured
+Brentford,Joshua Da Silva,M,0,0,0,Injured
+Brentford,E. Pinnock,D,0,0,0,Injured
+Brentford,K. Ajer,D,0,0,0,Injured
+Brentford,F. Carvalho,M,0,0,0,Injured
+Brentford,Thiago,F,0,0,0,Injured
+Brentford,G. Nunes,F,0,0,0,Injured
+Brentford,Rico Henry,D,0,0,0,Injured
+Brighton,Igor,D,0,0,0,Injured
+Brighton,Ferdi Kadioglu,M,0,0,0,Injured
+Brighton,James Milner,M,0,0,0,Injured
+Brighton,M. Wieffer,M,0,0,0,Injured
+Brighton,D. Welbeck,F,0,0,0,Injured
+Brighton,E. Ferguson,F,0,0,0,Injured
+Chelsea,O. Kellyman,F,0,0,0,Injured
+Chelsea,W. Fofana,D,0,0,0,Injured
+Chelsea,M. Mudryk,M,0,0,0,Suspended
+Chelsea,K. Dewsbury-Hall,M,0,0,0,Injured
+Chelsea,B. Badiashile,D,0,0,0,Injured
+Chelsea,R. Lavia,M,0,0,0,Injured
+Chelsea,C. Chukwuemeka,M,0,0,0,Injured
+Crystal Palace,A. Wharton,M,0,0,0,Injured
+Crystal Palace,Matheus Franca,F,0,0,0,Injured
+Crystal Palace,F. Umeh,F,0,0,0,Injured
+Crystal Palace,W. Hughes,M,0,0,0,Injured
+Everton,Tim Iroegbunam,M,0,0,0,Injured
+Everton,James Garner,M,0,0,0,Injured
+Everton,D. McNeil,F,0,0,0,Injured
+Everton,S. Coleman,D,0,0,0,Injured
+Everton,A. Broja,F,0,0,0,Injured
+Everton,Y. Chermiti,F,0,0,0,Injured
+Fulham,R. Nelson,F,0,0,0,Injured
+Fulham,Harrison Reed,M,0,0,0,Injured
+Fulham,K. Tete,D,0,0,0,Injured
+Fulham,S. Berge,M,0,0,0,Injured
+Ipswich,Axel Tuanzebe,D,0,0,0,Injured
+Ipswich,George Hirst,F,0,0,0,Injured
+Ipswich,Chiedozie Ogbene,F,0,0,0,Injured
+Ipswich,J. Donacien,D,0,0,0,Injured
+Ipswich,C. Chaplin,F,0,0,0,Injured
+Ipswich,O. Hutchinson,F,0,0,0,Injured
+Leicester City,M. Hermansen,GK,0,0,0,Injured
+Leicester City,Issahku Fatawu ,M,0,0,0,Injured
+Leicester City,Ricardo Pereira ,D,0,0,0,Injured
+Leicester City,O. Ndidi ,M,0,0,0,Injured
+Leicester City,K. McAteer ,M,0,0,0,Injured
+Liverpool,J. Gomez,D,0,0,0,Injured
+Liverpool,D. Nunez,F,0,0,0,Suspended
+Manchester City,Rodri,M,0,0,0,Injured
+Manchester,H. Maguire,D,0,0,0,Suspended
+Manchester,M. Mount,M,0,0,0,Injured
+Manchester,M. Rashford,F,0,0,0,Injured
+Newcastle,Emil Krafth,D,0,0,0,Injured
+Newcastle,C. Wilson,F,0,0,0,Injured
+Newcastle,J. Lascelles,D,0,0,0,Injured
+Newcastle,N.Pope,G,0,0,0,Injured
+Nottingham,Ibrahim Sangaré,M,0,0,0,Injured
+Southampton,F. Downes,M,0,0,0,Injured
+Southampton,Gavin Bazunu,G,0,0,0,Injured
+Southampton,Ross Stewart ,F,0,0,0,Injured
+Southampton,J. Larios,D,0,0,0,Injured
+Southampton,J. Stephens,D,0,0,0,Injured
+Tottenham,D. Udogie,D,0,0,0,Injured
+Tottenham,M. Moore,F,0,0,0,Injured
+Tottenham,M. van de Ven,D,0,0,0,Injured
+Tottenham,Wilson Odobert,M,0,0,0,Injured
+Tottenham,B. Davies,D,0,0,0,Injured
+Tottenham,Richarlison,F,0,0,0,Injured
+Tottenham,Guglielmo Vicario,G,0,0,0,Injured
+Tottenham,C. Romero,D,0,0,0,Injured
+West Ham United,L. Fabianski,G,0,0,0,Suspended
+West Ham United,M. Antonio,F,0,0,0,Injured
+West Ham United,J.C. Todibo,D,0,0,0,Injured
+West Ham United,J. Bowen,F,0,0,0,Injured
+West Ham United,Emerson,D,0,0,0,Injured
+Wolverhampton,B. Traore,M,0,0,0,Injured
+Wolverhampton,S. Kalajdzic,F,0,0,0,Injured
+Wolverhampton,Y.Mosquera,D,0,0,0,Injured
+Wolverhampton,Enso Gonzalez,F,0,0,0,Injured
+Wolverhampton,M. Cunha,F,0,0,0,Injured
+Wolverhampton,T. Gomes,D,0,0,0,Injured
+team,name,position,matches,goals,assists,status
+Atletico ,J. Gimenez,D,0,0,0, Injured
+Atletico ,P. Barrios,M,0,0,0, Injured
+Atletico ,A. Sorloth,F,0,0,0, Injured
+Atletico ,Thomas Lemar,M,0,0,0, Injured
+Barcelona,M. ter Stegen,G,0,0,0,Injured
+Barcelona,Marc Bernal,M,0,0,0,Injured
+Barcelona,F. Torres,F,0,0,0,Injured
+Celta Vigo,M. Ristic,D,0,0,0,Injured
+Celta Vigo,A. Douvikas,F,0,0,0,Injured
+Celta Vigo,F. Lopez ,M,0,0,0,Injured
+Celta Vigo,I. Aspas,F,0,0,0,Injured
+Celta Vigo,J. Rodriguez ,D,0,0,0,Suspended
+Alaves,S. Mourino,D,0,0,0,Injured
+Alaves,A. Sivera,G,0,0,0,Injured
+Espanyol,N. Unuvar,M,0,0,0,Injured
+Espanyol,P. Lozano,M,0,0,0,Injured
+Espanyol,Jose Gragera,M,0,0,0,Injured
+Getafe,A. nyom,D,0,0,0,Injured
+Getafe,D. Rico,D,0,0,0,Suspended
+Girona,Y. Asprilla ,M,0,0,0,Injured
+Girona,B. Miovski,F,0,0,0,Injured
+Las Palmas,D. Essugo,M,0,0,0,Injured
+Las Palmas,Viti,M,0,0,0,Injured
+Las Palmas,J. Campana,M,0,0,0,Injured
+Las Palmas,Pejino,M,0,0,0,Injured
+Las Palmas,Sandro,F,0,0,0,Injured
+Las Palmas,O. McBurnie,F,0,0,0,Injured
+Leganes,E. Franquesa,D,0,0,0,Injured
+Leganes,O. Rodriguez,M,0,0,0,Suspended
+Leganes,J. Saenz,D,0,0,0,Suspended
+Leganes,R. Tapia,M,0,0,0,Injured
+Mallorca,S. Costa,M,0,0,0,Injured
+Osasuna,Jose,F,0,0,0,Injured
+Osasuna,B Zaragoza,F,0,0,0,Injured
+Osasuna,K. Barja,F,0,0,0,Injured
+Rayo Vallecano,P.Fernandez ,D,0,0,0,Injured
+Rayo Vallecano,R. de Tomas ,F,0,0,0,Injured
+Rayo Vallecano,J. Rodriguez,M,0,0,0,Injured
+Rayo Vallecano,J. Montiel,M,0,0,0,Injured
+Rayo Vallecano,A. Batalla,G,0,0,0,Injured
+Rayo Vallecano,P. Diaz,M,0,0,0,Injured
+Rayo Vallecano,S. Camello,F,0,0,0,Injured
+Rayo Vallecano,A. Garcia,M,0,0,0,Injured
+Betis,Hector Bellerin,D,0,0,0,Injured
+Betis,Nobel Mendy,M,0,0,0,Injured
+Betis,William Carvalho,M,0,0,0,Injured
+Betis,Marc Roca,M,0,0,0,Injured
+Real Madrid,D. Alaba,D,0,0,0,Injured
+Real Madrid,A. Rudiger,D,0,0,0,Injured
+Real Madrid,Eder Militao,D,0,0,0,Injured
+Real Madrid,Daniel Carvajal,D,0,0,0,Injured
+Real Madrid,L. Vazquez,M,0,0,0,Injured
+Real Sociedad,Hamari Traore,D,0,0,0,Injured
+Real Sociedad,N. Aguerd,D,0,0,0,Injured
+Real Sociedad,I. Zubeldia,D,0,0,0,Suspended
+Sevilla,Chidera Ejuke,F,0,0,0,Injured
+Sevilla,T. Nianzou,D,0,0,0,Injured
+Sevilla,D. Sow,M,0,0,0,Injured
+Valladolid,L. Rosa,D,0,0,0,Injured
+Valladolid,S. Juric,M,0,0,0,Injured
+Valladolid,R. Moro,F,0,0,0,Injured
+Valladolid,K. Hein,G,0,0,0,Injured
+Valladolid,M. Sylla,F,0,0,0,Injured
+Valencia,F. Perez,M,0,0,0, Injured
+Valencia,Mouctar Diakhaby,D,0,0,0,Injured
+Valencia,J. Gaya,D,0,0,0,Injured
+Valencia,Thierry Correia ,D,0,0,0,Injured
+Valencia,G. Mamardashvili ,G,0,0,0,Injured
+Valencia,R. Mir,F,0,0,0,Injured
+Villarreal,llis Akhomach,M,0,0,0,Injured
+Villarreal,Nicolas Pepe,F,0,0,0,Injured
+Villarreal,A. Perez,F,0,0,0,Injured
+Villarreal,Alfonso Pedraza,M,0,0,0, Injured
+Villarreal,D. Conde,G,0,0,0,Injured
+Villarreal,Y. Pino,M,0,0,0,Suspended
+team,name,position,matches,goals,assists,status
+Milan,Samuel Chukwueze,F,0,0,0,Injured
+Milan,Tommaso Pobega,M,0,0,0,Suspended
+Milan,Alessandro Florenzi,M,0,0,0,Injured
+Atalanta,Mateo Retegui,F,0,0,0,Suspended
+Atalanta,Gianluca Scamacca,F,0,0,0,Injured
+Atalanta,Juan Cuadrado,D,0,0,0,Injured
+Atalanta,El Bilal Toure,F,0,0,0,Injured
+Bologna,Stefan Posch,D,0,0,0,Injured
+Bologna,Michel Aebischer,M,0,0,0,Injured
+Bologna,Oussama Azzouzi ,M,0,0,0,Injured
+Bologna,Nicolo cambiaghi ,F,0,0,0,Injured
+Bologna,Niklas Pyyhtiae ,M,0,0,0,Injured
+Cagliari,Zito Luvumbo,F,0,0,0,Injured
+Como,Edoardo Goldaniga,D,0,0,0,Suspended
+Como,Nikolas Ioannou,D,0,0,0,Suspended
+Empoli,Szymon Zurkowski ,M,0,0,0,Injured
+Empoli,Tyronne Ebuehi ,D,0,0,0,Injured
+Empoli,Nicolas Haas,M,0,0,0,Injured
+Fiorentina,Sofyan Amrabat,M,0,0,0,Suspended
+Genoa,Ruslan Malinovskyi,M,0,0,0, Injured
+Genoa,Junior Messias,F,0,0,0,Injured
+Genoa,Caleb Ekuban,F,0,0,0,Injured
+Genoa,Brooke Norton-Cuffy,D,0,0,0,Injured
+Genoa,Alan Matturro,D,0,0,0,Injured
+Hellas Verona,Martin Frese,F,0,0,0,Injured
+Hellas Verona,Abdou Harroui,M,0,0,0,Injured
+Hellas Verona,Suat Serdar,M,0,0,0,Suspended
+Inter ,Benjamin Pavard,D,0,0,0,Injured
+Inter ,R. Di Gennaro,G,0,0,0,Injured
+Inter ,F. Acerbi,D,0,0,0,Injured
+Inter ,Valentin Carboni,M,0,0,0,Injured
+Inter ,Martin Satriano,F,0,0,0,Injured
+Juventus,Arkadiusz Milik ,F,0,0,0,Injured
+Juventus,A. Cambiaso,D,0,0,0,Injured
+Juventus,Gleison Bremer,D,0,0,0,Injured
+Juventus,Juan Cabal,M,0,0,0,Injured
+Juventus,J. Cabal,D,0,0,0,Injured
+Lazio, Valentin Castellanos,F,0,0,0,Suspended
+Lazio, Matias Vecino,M,0,0,0,Injured
+Lecce,Jeppe Corfitzen ,F,0,0,0,Injured
+Lecce,Lameck Banda,F,0,0,0,Injured
+Lecce,Kialonda Gaspar,M,0,0,0,Injured
+SS Monza 1912,Roberto Gagliardini,M,0,0,0,Injured
+SS Monza 1912,Matteo Pessina,M,0,0,0,Injured
+SS Monza 1912,Alessio Cragno,G,0,0,0,Injured
+SS Monza 1912,Pablo Mari,D,0,0,0,Suspended
+SS Monza 1912,Danilo D'Ambrosio,D,0,0,0,Suspended
+Parma Calcio,Alessandro Circati,D,0,0,0,Injured
+Parma Calcio,Mateusz Kowalski,M,0,0,0,Injured
+Parma Calcio,Adrian Bernabe,D,0,0,0,Injured
+Parma Calcio,Yordan Osorio,D,0,0,0,Injured
+Parma Calcio,Gabriel Charpentier,M,0,0,0,Injured
+Roma,Bryan Cristante,M,0,0,0,Injured
+Roma,Edoardo Bove,M,0,0,0,Doubtful
+Napoli,A. Buongiorno,D,0,0,0,Injured
+Napoli,K. Kvaratskhelia,F,0,0,0,Injured
+Torino,Duvan Zapata,F,0,0,0,Injured
+Torino,Saba Sazonov ,D,0,0,0,Injured
+Torino,Perr Schuurs,D,0,0,0,Injured
+Torino,Emirhan IIkhan ,M,0,0,0,Injured
+Torino,Pietro Pellegri,F,0,0,0,Injured
+Udinese,Oier Zarraga,M,0,0,0,Injured
+Udinese,Gerard Deulofeu,F,0,0,0,Injured
+Udinese,Keinan Davis,F,0,0,0,Injured
+Udinese,Maduka Okoye,G,0,0,0,Injured
+Venezia,Richie Sagrado,D,0,0,0,Injured
+Venezia,Alfred Duncan,M,0,0,0,Injured
+Venezia,Michael Svoboda,D,0,0,0,Injured
+team,name,position,matches,goals,assists,status
+Augsburg,Y. Kabadayi,F,0,0,0,Injured
+Augsburg,M. Okugawa,M,0,0,0,Injured
+Augsburg,Mads Pedersen,D,0,0,0,Injured
+Augsburg,K. Schlotterbeck,D,0,0,0,Injured
+Leverkusen,Amine Adli,F,0,0,0,Injured
+Leverkusen,Jeanuel Belocian,D,0,0,0,Injured
+B. Munich,D. Upamecano ,D,0,0,0,Suspended
+B. Munich,S. Boey,D,0,0,0,Injured
+B. Munich,Hiroki Ito,D,0,0,0,Injured
+Bochum,K. Miyoshi,M,0,0,0,Suspended
+Dortmund,Filippo Mane,M,0,0,0,Injured
+Dortmund,F. Nmecha,M,0,0,0,Injured
+Dortmund,R. Bensebaini,D,0,0,0,Injured
+Mgladbach,N. Ngoumou,M,0,0,0,Injured
+Frankfurt,Aurele Amenda,M,0,0,0,Injured
+Frankfurt,Tuta,D,0,0,0,Injured
+Frankfurt,J. Bahoya,F,0,0,0,Injured
+Heidenheim,J. Niehues,M,0,0,0,Injured
+Heidenheim,Marvin Pieringer,M,0,0,0,Suspended
+Freiburg,B. Ogbus,D,0,0,0,Injured
+Freiburg,daniel-Kofi Kyereh,M,0,0,0,Injured
+Hoffenheim,Christopher Lenz,D,0,0,0,Injured
+Hoffenheim,Grischa Promel,M,0,0,0,Injured
+Hoffenheim,Ihlas Bebou,F,0,0,0,Injured
+Hoffenheim,U. Tohumcu,M,0,0,0,Injured
+Hoffenheim,Ozan Kabak,D,0,0,0,Injured
+Hoffenheim,Marius Bulter ,F,0,0,0,Injured
+Hoffenheim,M. Moerstedt,F,0,0,0,Injured
+Kiel,M. Schulz,M,0,0,0,Injured
+Kiel,P. Erras ,M,0,0,0,Injured
+Kiel,S. Skrzybski,F,0,0,0,Injured
+Kiel,Colin Kleine-Bekel,M,0,0,0,Injured
+Mainz ,Gabriel Vidovic,M,0,0,0,Injured
+Mainz ,N. Amiri,M,0,0,0,Injured
+Mainz ,J. Burkardt ,F,0,0,0,Injured
+Mainz ,M. Jenz,D,0,0,0,Injured
+Mainz ,M.B. Dal,D,0,0,0,Injured
+Mainz ,S. Widmer,D,0,0,0,Injured
+Mainz ,N. Amiri,M,0,0,0,Suspended
+Leipzig,A. Vermeeren,M,0,0,0,Suspended
+Leipzig,C. Lukeda,D,0,0,0,Injured
+Leipzig,Assan Ouedraogo,M,0,0,0,Injured
+Leipzig,B. Henrichs ,D,0,0,0,Injured
+Leipzig,Yussuf Poulsen,F,0,0,0,Injured
+St. Pauli,P. Treu,D,0,0,0,Injured
+St. Pauli,H. Wahl,D,0,0,0,Injured
+St. Pauli,Elias Saad,M,0,0,0,Injured
+St. Pauli,Connor Metcalfe,M,0,0,0,Injured
+St. Pauli,Simon Zoller,F,0,0,0,Injured
+St. Pauli,Sascha Burchert,G,0,0,0,Injured
+St. Pauli,Soren Ahlers,G,0,0,0,Injured
+St. Pauli,Karol Mets ,M,0,0,0,Injured
+St. Pauli,R. Boamah Seibt ,G,0,0,0,Injured
+St. Pauli,Robert Wagner,M,0,0,0,Injured
+Union Berlin,O. Ogbemudia,D,0,0,0,Injured
+Union Berlin,Yannic Stein,G,0,0,0,Injured
+Union Berlin,R. Khedira,M,0,0,0,Suspended
+Union Berlin,F. Ronnow,G,0,0,0,Injured
+Union Berlin,I. Prtajin,F,0,0,0,Injured
+Stuttgart,Dan-Axel Zagadou,D,0,0,0,Injured
+Stuttgart,C. Oliver,M,0,0,0,Injured
+Stuttgart,El Bilal Toure,F,0,0,0,Injured
+Stuttgart,J. Diehl,F,0,0,0,Injured
+Stuttgart,W. Faghir,F,0,0,0,Injured
+Bremen,Felix Agu,D,0,0,0,Injured
+Bremen,Isak Hansen-Aaroeen,F,0,0,0,Injured
+Bremen,Keke Topp,F,0,0,0,Injured
+Bremen,M. Ducksch,F,0,0,0,Injured
+Bremen,Justin Njinmah,M,0,0,0,Injured
+Wolfsburg,Bartosz Bialek,F,0,0,0,Injured
+Wolfsburg,Kevin Paredes,M,0,0,0,Injured
+Wolfsburg,Lovro Majer,M,0,0,0,Injured
+Wolfsburg,Rogerio,D,0,0,0,Injured
+Wolfsburg,A. Vranckx ,M,0,0,0,Injured
+team,name,position,matches,goals,assists,status
+Angers,Sidiki Cherif,M,0,0,0,Injured
+Angers,J. Kalumba,F,0,0,0,Injured
+Auxerre,K. Hoever,D,0,0,0,Injured
+Auxerre,Ange Loic N’Gatta ,M,0,0,0,Injured
+Auxerre,N. Buayi-Kiala ,M,0,0,0,Injured
+Auxerre,G. Osho ,D,0,0,0,Injured
+Auxerre,L. Coulibaly ,M,0,0,0,Injured
+Auxerre,K. Danois ,M,0,0,0,Injured
+Auxerre,D. Leon ,G,0,0,0,Injured
+Brestois,R. Del Castillo,M,0,0,0,Injured
+Brestois,B. Locko,D,0,0,0,Injured
+Brestois,Jonas Martin,M,0,0,0,Injured
+Brestois,J. Amavi,D,0,0,0,Injured
+Le Havre,S. Ngoura,F,0,0,0,Injured
+Le Havre,E.A.M. Sabbi,F,0,0,0,Injured
+Le Havre,C. Operi,D,0,0,0,Injured
+Le Havre,O. Targhalline,M,0,0,0,Injured
+Le Havre,M. Bodmer,M,0,0,0,Injured
+Le Havre,A. Ayew,F,0,0,0,Injured
+Le Havre,D. Kuzyayev,M,0,0,0,Injured
+Lens,R. Lascary,F,0,0,0,Injured
+Lens,Ruben Aguilar,D,0,0,0,Injured
+Lens,Martin Satriano,F,0,0,0,Injured
+Lens,Wesley Said,F,0,0,0,Injured
+Lens,Jimmy Cabot,F,0,0,0,Injured
+Lens,J. Chavez,F,0,0,0,Injured
+Lens,N. EI Aynaoui,M,0,0,0,Injured
+Lens,D. Costa,M,0,0,0,Injured
+Lens,K. Danso,D,0,0,0,Suspended
+Lille,Tiago Santos,M,0,0,0,Injured
+Lille,Ethan Mbappe,M,0,0,0,Injured
+Lille,Nabil Bentaleb,M,0,0,0,Injured
+Lille,Samuel Umtiti,D,0,0,0,Injured
+Lille,E. Zhegrova,M,0,0,0,Injured
+Lille,M. Fernandez-Pardo,F,0,0,0,Injured
+Lyon,M. Caqueret,M,0,0,0,Injured
+Marseille,Valentin Carboni,M,0,0,0,Injured
+Marseille,Faris Moumbagna,F,0,0,0,Injured
+Marseille,P. Lirola,D,0,0,0,Injured
+Marseille,E.A Koum Mbondo,D,0,0,0,Injured
+Marseille,A. Harit,M,0,0,0,Injured
+Marseille,G. Kondogbia,M,0,0,0,Injured
+Marseille,P. Hojbjerg,M,0,0,0,Injured
+Monaco,Folarin Balogun,F,0,0,0,Injured
+Monaco,Krepin Diatta,F,0,0,0,Injured
+Monaco,R. Majecki,G,0,0,0,Injured
+Monaco,C. Mawissa,D,0,0,0,Injured
+Montpellier,Boubakar Kouyaté,D,0,0,0,Injured
+Montpellier,C. Jullien,D,0,0,0,Injured
+Montpellier,O. Maamma,F,0,0,0,Injured
+Montpellier,A. Nordin,F,0,0,0,Injured
+Montpellier,N. Maksimovic,D,0,0,0,Injured
+Montpellier,G. Bares,M,0,0,0,Injured
+Montpellier,J. Ndiaye,F,0,0,0,Injured
+Nantes,Tino Kadewere,F,0,0,0,Injured
+Nantes,F. Centonze,D,0,0,0,Injured
+Nantes,P. Chirivella,D,0,0,0,Injured
+Nice,Morgan Sanson,M,0,0,0,Injured
+Nice,Ali Abdi,D,0,0,0,Injured
+Nice,V. Orakpo ,F,0,0,0,Injured
+Nice,J. Boga ,F,0,0,0,Injured
+Nice,T. Louchet ,M,0,0,0,Injured
+Nice,M. Brad ,D,0,0,0,Injured
+Nice,T. Moffi ,F,0,0,0,Injured
+Nice,P. Rosario ,M,0,0,0,Suspended
+Reims,Abdoul Kone,M,0,0,0,Injured
+Reims,R. Khadra,M,0,0,0,Injured
+Reims,Mohammed Daramy,F,0,0,0,Injured
+Reims,Y. Fofana,M,0,0,0,Injured
+Rennes,Alidu Seidu,D,0,0,0,Injured
+Rennes,D. Alemdar,G,0,0,0,Injured
+Rennes,H. Meister,F,0,0,0,Injured
+Saint-Etienne,B. Old,M,0,0,0,Injured
+Saint-Etienne,I. Wadji,F,0,0,0,Injured
+Saint-Etienne,Yvann Macon,D,0,0,0,Injured
+Saint-Etienne,M. Amougou,M,0,0,0,Injured
+Saint-Etienne,T. Monconduit,M,0,0,0,Injured
+Saint-Etienne,I. Sissoko,F,0,0,0,Suspended
+Strasbourg,S. Mara,F,0,0,0,Injured
+Strasbourg,Alaa Bellaarouch,G,0,0,0,Injured
+Strasbourg,C. Wiley,D,0,0,0,Injured
+Strasbourg,Moise Sahi Dion,F,0,0,0,Injured
+Strasbourg,A. Ouattara,M,0,0,0,Injured
+Toulouse,V. Sierro,M,0,0,0,Injured
+Toulouse,N. Schmidt,M,0,0,0,Suspended
+team,name,position,matches,goals,assists,status
+Alanyaspor,Furkan Bayir ,D,0,0,0,Injured
+Antalyaspor,Bahadir Ozturk,D,0,0,0,Injured
+Antalyaspor,Emrecan Uzunhan,M,0,0,0,Doubtful
+Besiktas,ernest Muci ,M,0,0,0,Injured
+Besiktas,Necip Uysal ,M,0,0,0,Injured
+Bodrumspor,Christophe Herelle,D,0,0,0,Doubtful
+Bodrumspor,Suleyman Ozdamar,M,0,0,0,Injured
+Bodrumspor,Mustafa Erdilman,M,0,0,0,Injured
+Bodrumspor,Tunahan Akpınar,M,0,0,0,Injured
+Bodrumspor,Ege Bilsel ,M,0,0,0,Suspended
+Bodrumspor,Samet Yalcin ,M,0,0,0,Suspended
+Eyupspor,Melih Kabasakal,M,0,0,0,Suspended
+Eyupspor,Robin Yalcin,D,0,0,0,Suspended
+Eyupspor,Ahmed Kutucu,F,0,0,0,Suspended
+Eyupspor,Fredrik Midtsjo,M,0,0,0,Injured
+Eyupspor,Recep Niyaz,M,0,0,0,Doubtful
+Fenerbahce,Sofyan Amrabat,M,0,0,0,Injured
+Fenerbahce,Mert Hakan Yandas,M,0,0,0,Injured
+Fenerbahce,Caglar Soyuncu,D,0,0,0,Injured
+Fenerbahce,Jayden Oosterwolde ,D,0,0,0,Injured
+Galatasaray,Ismail Jakobs,M,0,0,0,Injured
+Galatasaray,Mauro Icardi ,F,0,0,0,Injured
+Gaziantep,G. Bitok Stephen,M,0,0,0,Doubtful
+Goztepe,Juan,F,0,0,0,Suspended
+Goztepe,Isaac Solet,M,0,0,0,Injured
+Goztepe,Kubilay Kanatsizkus,F,0,0,0,Doubtful
+Hatayspor,Massanga Matondo,M,0,0,0,Injured
+Basaksehir,Berkay Ozcan,M,0,0,0,Injured
+Kasimpasa,K. Josiah Omeruo ,D,0,0,0,Injured
+Kayserispor,Majid Hosseini,D,0,0,0,Doubtful
+Kayserispor,Carlos Mane ,F,0,0,0,Injured
+Kayserispor,Miguel Cardoso ,F,0,0,0,Suspended
+Konyaspor,Riechedly Bazoer,M,0,0,0,Suspended
+Konyaspor,Josip Calusic,M,0,0,0,Injured
+Rizespor,B. David Akintola,F,0,0,0,Suspended
+Rizespor,Amir Hadziahmetovic,M,0,0,0,Suspended
+Rizespor,C.Hojer Nielsen,D,0,0,0,Injured
+Sivasspor,Mehmet Albayrak,M,0,0,0,Injured
+Trabzonspor,Stefan Savic,D,0,0,0,Injured
+team,name,position,matches,goals,assists,status
+Ajax,Julian Rijkhoff,M,0,0,0,Doubtful
+Ajax,Sivert Mannsverk,M,0,0,0,Doubtful
+Ajax,A. van Axel,M,0,0,0,Doubtful
+Ajax,Gaston Avila,D,0,0,0,Doubtful
+Ajax,Mika Godts ,M,0,0,0,Injured
+Almere, Alex Balboa ,M,0,0,0,Doubtful
+Almere, Baptiste Guillaume,F,0,0,0,Doubtful
+Alkmaar,R.J. Owusu-Oduro,M,0,0,0,Injured
+Alkmaar,Sem Westerveld,M,0,0,0,Doubtful
+Alkmaar,Ibrahim Sadiq ,F,0,0,0,Injured
+Groningen,Finn Stam,M,0,0,0,Injured
+FC Twente,Anass Salah-Eddine,M,0,0,0,Injured
+FC Twente,Mees Hilgers,D,0,0,0,Injured
+FC Twente,Younes Taha,M,0,0,0,Injured
+Utrecht,Alonzo Engwanda,M,0,0,0,Doubtful
+Utrecht,Kevin Gadellaa,M,0,0,0,Doubtful
+Utrecht,Can Bozdogan ,M,0,0,0,Injured
+Utrecht,Silas Andersen ,M,0,0,0,Suspended
+Utrecht,Mike Van der Hoorn ,M,0,0,0, Injured
+Feyenoord,Hugo Bueno,D,0,0,0,Injured
+Feyenoord,Ibrahim Osman,M,0,0,0,Injured
+Feyenoord,Ayase Ueda ,M,0,0,0,Injured
+Sittard,Kaj Sierhuis,F,0,0,0,Doubtful
+Heracles,Stjin Bultman ,M,0,0,0,Doubtful
+Heracles,Sava Cestic ,D,0,0,0,Doubtful
+Heracles,Nikolai Lauren ,F,0,0,0,Doubtful
+Breda,Cherrion Vaerius,M,0,0,0,Injured
+Breda,Aimé Omgba,M,0,0,0,Doubtful
+NEC Nijmegen,Y. Borges Sanches,M,0,0,0,Injured
+Zwolle,Tristan Gooijer,M,0,0,0,Doubtful
+Zwolle,Samir Lagsir,M,0,0,0,Doubtful
+PSV,M. Tillman, M,0,0,0,Injured
+PSV,R. Pepi, F,0,0,0,Injured
+PSV,Sergino Dest , D,0,0,0,Injured
+PSV,R. Karsdorp , D,0,0,0,Injured
+PSV,O. Boscagli , D,0,0,0,Injured
+Waalwijk,J. Familia-Castillo,D,0,0,0,Injured
+Waalwijk,Nouri El Harmazi,M,0,0,0,Doubtful
+SC Heerenveen, Mats Kohlert,F,0,0,0,Injured
+Sparta,Pelle Clement,M,0,0,0,Suspended
+Sparta,Jonathan De Guzman ,M,0,0,0,Doubtful
+Willem II,Dani Mathieu,M,0,0,0,Doubtful
+Willem II,Amar Fatah,M,0,0,0,Doubtful
+Willem II,Niels van Berkel,M,0,0,0,Doubtful
+Willem II,Valentino Vermeulen ,M,0,0,0,Doubtful
+team,name,position,matches,goals,assists,status
+Argentinos Juniors,Kevin Coronel,M,0,0,0,Suspended
+Argentinos Juniors,Alan Rodriguez,M,0,0,0,Injured
+Argentinos Juniors,Erik Godoy,D,0,0,0,Injured
+Argentinos Juniors,Luciano Sanchez,M,0,0,0,Injured
+Atletico Tucuman,Gino Peruzzi,D,0,0,0,Injured
+Banfield,Juan Alvarez,F,0,0,0,Injured
+Banfield,Damian Diaz,M,0,0,0,Injured
+Banfield,Alejandro Cabrera,M,0,0,0,Injured
+Banfield,Lautaro Gomez ,M,0,0,0,Injured
+Banfield,Geronimo Rivera,M,0,0,0,Injured
+Banfield,Bruno Sepulveda,F,0,0,0,Injured
+Banfield,Nicolás Hernández,M,0,0,0,Injured
+Banfield,Braian Galvan,F,0,0,0,Injured
+Banfield,Alexis Maldonado,D,0,0,0,Injured
+Banfield,Guillermo Enrique,M,0,0,0,Injured
+Barracas Central,Sebastian Moyano,G,0,0,0,Injured
+Barracas Central,Lucas Lopez,M,0,0,0,Injure
+Barracas Central,Gonzalo Goni ,D,0,0,0,Injured
+Belgrano Central,Matias Marin,M,0,0,0,Injured
+Belgrano Central,Alejandro Rebola,M,0,0,0,Injured
+Boca Juniors,Cristian Lema,D,0,0,0,Injured
+Boca Juniors,Aaron Anselmino,M,0,0,0,Injured
+Central Cordoba,Lautaro Montoya,D,0,0,0,Injured
+Platense,Juan Pablo Pignani,M,0,0,0,Injured
+Platense,Juan Pablo Goicochea,M,0,0,0,Injured
+Platense,Raul Lozano,D,0,0,0,Injured
+Platense,Ciro Rius,F,0,0,0,Injured
+Estudiantes La Plata,Pablo Piatti,F,0,0,0,Injured
+Estudiantes La Plata,Javier Altamirano ,M,0,0,0,Injured
+Estudiantes La Plata,Matias Contrera ,M,0,0,0,Injured
+Gimnasia La Plata,Lucas Castro,M,0,0,0,Injured
+Gimnasia La Plata,Gonzalo Gonzalez,M,0,0,0,Injured
+Gimnasia La Plata,Matias Abaldo ,M,0,0,0,Injured
+Gimnasia La Plata,Ivo Mammini ,F,0,0,0,Injured
+Gimnasia La Plata,Pablo De Blasis,M,0,0,0,Injured
+Godoy Cruz,Nicolas Fernandez,M,0,0,0,Injured
+Godoy Cruz,Elias Pereyra,D,0,0,0,Injured
+Godoy Cruz,Pier Barrios,D,0,0,0,Injured
+Godoy Cruz,Nahuel Ulariaga,F,0,0,0,Injured
+Huracan,Sebastián Ramirez,M,0,0,0,Injured
+Huracan,Lucas Carrizo,M,0,0,0,Injured
+Independiente,Santiago Montiel,M,0,0,0,Injured
+Independiente,Adrian Sporle,D,0,0,0,Injured
+Independiente,Joaquin Laso,D,0,0,0,Suspended
+Independiente,Lucas Gonzalez,M,0,0,0,Injured
+Independiente,R. David Martinez,M,0,0,0,Injured
+Independiente,Federico Mancuello,M,0,0,0,Injured
+Ind. Rivadavia,Federico Moreno,M,0,0,0,Injured
+Instituto Atletico,Jeremias Lazaro ,M,0,0,0,Injured
+Instituto Atletico,Jonas Acevedo ,M,0,0,0,Injured
+Instituto Atletico,Fernando Alarcon ,D,0,0,0,Injured
+Lanus,Walter Bou,F,0,0,0,Injured
+Lanus,Nicolas Morgantini,D,0,0,0,Injured
+Lanus,Ramiro Carrera ,M,0,0,0,Injured
+Lanus,Leandro Diaz ,F,0,0,0,Injured
+Lanus,Nery Dominguez,M,0,0,0,Injured
+Newells,Jeronimo Cacciabue,M,0,0,0,Injured
+Newells,Brian Calderara ,D,0,0,0,Injured
+Racing,Agustin Almendra,M,0,0,0,Injured
+River Plate,Claudio Echeverri ,M,0,0,0,Injured
+River Plate,Agustin Sant'Anna ,M,0,0,0,Injured
+River Plate,German Pezzella ,D,0,0,0,Injured
+River Plate,Marcos Acuna ,D,0,0,0,Injured
+River Plate,Enzo Diaz,D,0,0,0,Injured
+Rosario Central,Jaminton Campaz,M,0,0,0,Injured
+Rosario Central,Gasper Duarte,M,0,0,0,Injured
+Rosario Central,Carlos Quintana,D,0,0,0,Injured
+Rosario Central,Facundo Mallo,M,0,0,0,Injured
+Rosario Central,Ignacio Malcorra,M,0,0,0,Injured
+Rosario Central,Axel Werner,G,0,0,0,Injured
+San Lorenzo,manuel Insaurralde ,M,0,0,0,Injured
+San Lorenzo,Gaston Hernandez,D,0,0,0,Injured
+San Lorenzo,Nahuel Arias,M,0,0,0,Injured
+San Lorenzo,Nahuel Bustos,F,0,0,0,Suspended
+Sarmiento,Manuel Monaco,M,0,0,0,Injured
+Sarmiento,Emiliano Mendez,M,0,0,0,Injured
+Talleres Cordoba,Matias Esquivel,F,0,0,0,Injured
+Talleres Cordoba,Valentin Depietri,F,0,0,0,Injured
+Tigre,Brian leizza ,M,0,0,0,Injured
+Tigre,Florian Monzon,F,0,0,0,Injured
+Tigre,Angelo Marchese ,M,0,0,0,Injured
+Tigre,Ijiel Protti,F,0,0,0,Injured
+Union, Nicolas Orsini,F,0,0,0,Injured
+Union, Bruno Pitton,D,0,0,0,Injured
+Velez Sarsfield,Alejo Sarco,M,0,0,0,Injured
+Velez Sarsfield,Ricardo Centurion,F,0,0,0,Injured
+Velez Sarsfield,Yeison Gordillo,M,0,0,0,Injured
+team,name,position,matches,goals,assists,status
+Celtic,Odin Thiago Holm,F,0,0,0,Injured
+Dinamo Zagreb,Josip Misic,M,0,0,0,Injured
+Dinamo Zagreb,Petar Sucic,M,0,0,0,Injured
+Dinamo Zagreb,Juan Cordoba,M,0,0,0,Injured
+Brugge,Bjorn Meijer,D,0,0,0,Injured
+
